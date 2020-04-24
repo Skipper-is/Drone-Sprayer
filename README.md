@@ -3,10 +3,10 @@
 This project is to create an Arduino powered drone sprayer. It will be a separate, underslung load, rather than interfacing with the drone itself.
 
 ## Parts
-1 - [Battery Powered/USB 1L Sprayer](https://www.amazon.co.uk/dp/B083M8X6PG/ref=cm_sw_em_r_mt_)
-1 - ESP32 board - [(I used a Heltec Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)
-1 - Breadboard - I will probably make a perf board at one point, but breadboard for now
-1 - 500ml plastic bottle - I used an empty Caro container, as it was thin, light plastic
+ - [Battery Powered/USB 1L Sprayer](https://www.amazon.co.uk/dp/B083M8X6PG/ref=cm_sw_em_r_mt_)
+- ESP32 board - [(I used a Heltec Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)
+ - Breadboard - I will probably make a perf board at one point, but breadboard for now
+ - 500ml plastic bottle - I used an empty Caro container, as it was thin, light plastic
 
 ## Process
 
