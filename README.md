@@ -11,7 +11,9 @@ This project is to create an Arduino powered drone sprayer. It will be a separat
 ## Process
 
 First, I stripped down the sprayer. 
+
 ![Stripped sprayer](20191004_200301.jpg)
+
 Ended up with 4 main parts.
 
 - Sprayer pump
