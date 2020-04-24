@@ -10,7 +10,10 @@ This project is to create an Arduino powered drone sprayer. It will be a separat
 
 ## Process
 
-First, I stripped down the sprayer. ![Stripped sprayer](20191004_200301.jpg)
+First, I stripped down the sprayer. 
+
+![Stripped sprayer](20191004_200301.jpg)
+
 Ended up with 4 main parts.
 
 - Sprayer pump
@@ -33,7 +36,9 @@ I used a Heltec ESP32 Wireless Stick Lite - mainly because I had it laying about
 The code used is a very simply modified version of the example code - in the [DroneSprayer folder](https://github.com/Skipper-is/Drone-Sprayer/tree/master/DroneSprayer)
 Pin 5 was linked to the yellow signal wire from the trigger connector, the red & black were wired to the Wireless Stick Lite's LiPo terminal. 
 Everything was hot-glued to the Caro coffee container, with the sprayer input pipe going into the container.
+
 ![Interesting looking job](20200424_175514.jpg)
+
 A switch was added to the +ve wire running to the ESP32, so it isn't running when not in use. I suppose I could do a switch on the battery - but then I cannot charge it unless the whole system is active.
 
 ## Testing
